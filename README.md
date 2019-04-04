@@ -23,6 +23,7 @@ Using Node.js with an Express framework, data was served to the front-end and di
 
 #### Server
 `npm install nodemon`
+
 `npm run server-dev`
 
 ## Project Gallery
