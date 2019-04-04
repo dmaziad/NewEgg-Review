@@ -1,5 +1,5 @@
-# NewEgg-Review
-Mock Review component of newegg.com
+# BadEgg-Review
+Mock Review component for e-commerce website
 
 ## Dependencies
 * Node.js
